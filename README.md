@@ -8,7 +8,7 @@ Prerequisites
 
 Resources
 ---------
-* http://wiki.eclipse.org/EclipseLink/Development/2.4.0/JPA-RS/REST-API
+* http://www.unitask.com/oracledaily/2012/10/30/easy-way-to-access-jpa-with-rest-json-xml/
 * http://wiki.eclipse.org/EclipseLink/Development/2.4.0/JPA-RS/REST-API
 
 REST API
